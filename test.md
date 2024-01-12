@@ -18,6 +18,14 @@
 
 + **git diff** - увидеть разницу между текущим файлом и закоммиченным файлом
 
+
+# *ссылки на дополнительный материал по командам для работы GIT*: Вот [первая](https://habr.com/ru/articles/541258/), а вот [вторая](https://habr.com/ru/articles/542616/), и вот [третья](https://doka.guide/tools/markdown/).
+
+
+![](https://catherineasquithgallery.com/uploads/posts/2021-03/1614550162_69-p-memi-na-belom-fone-74.png )
+
+
+
 ># Просто финальный текст
 >> Спасибо, было интересно. Жаль семинар в записи.
 >
